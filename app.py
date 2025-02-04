@@ -8,20 +8,21 @@ st.write("Smartphone Recommendation System using multiple recommendation techniq
 cosine_df = pd.read_csv("cosine_df.csv")
 df = pd.read_csv('know_df.csv')
 utility_df = pd.read_csv("utility_df.csv")
+items = pd.read_csv("items.csv")
 
 tab1, tab2, tab3, tab4 = st.tabs(['Content-Based Filtering','Knowledge Based Filtering', 'Utility Based Filtering', "Hybrid Model"])
 
 with tab1:
     st.write("Cosine similarity is a popular metric used to measure the similarity between two non-zero vectors in a multi-dimensional space. It calculates the cosine of the angle between two vectors, which indicates how similar the vectors are in terms of their direction.")
     
-    name = st.selectbox("Select the Smartphone", cosine_df['model'].unique().tolist())
+    name = st.selectbox("Select the Smartphone", cosine_df['model'].unique().tolist(), key="tab1_select")
 
     rec = (cosine_df[['model', name]].sort_values(by=name, ascending=False)
-    .head(10).reset_index())
+    .reset_index())
 
-    rec = rec.iloc[:, 1]
+    recs = rec.iloc[:, 1]
 
-    st.dataframe(rec)
+    st.dataframe(recs.head(10))
 
 with tab2:
 
@@ -114,6 +115,61 @@ with tab3:
 
     if st.button("Recommend utility based Smartphones"):
         st.dataframe(utility_df)
+
+
+with tab4:
+
+    st.title("Hybrid Model")
+
+    st.write("A Hybrid Recommender System combines different recommendation techniques to provide better recommendations by leveraging the strengths of each. In our case, we will combine **Content-Based Filtering** and **Knowledge-Based Filtering**.")
+
+    
+    name_model = st.selectbox("Select the Smartphone", cosine_df['model'].unique().tolist(), key="tab4_select")
+
+    rec_model = (cosine_df[['model', name_model]].sort_values(by=name_model, ascending=False)
+    .reset_index())
+
+    rec_model = rec_model.iloc[:, 1]
+
+    # st.dataframe(rec_model.head(10))
+    
+    
+    hybrid_df = rec.merge(df, left_on="model", right_on="model")
+
+    # st.dataframe(hybrid_df)
+
+    cols = ['model','price', 'ram_capacity','internal_memory','primary_camera_rear','primary_camera_front']
+    hybrid_df = hybrid_df.loc[:, hybrid_df.columns.isin(cols)]
+    # st.dataframe(hybrid_df)
+
+
+
+    price = hybrid_df.loc[hybrid_df['model'] == name_model]['price'].values[0]
+    ram_capacity = hybrid_df.loc[hybrid_df['model'] == name_model]['ram_capacity'].values[0]
+    internal_memory = hybrid_df.loc[hybrid_df['model'] == name_model]['internal_memory'].values[0]
+    primary_camera_rear = hybrid_df.loc[hybrid_df['model'] == name_model]['primary_camera_rear'].values[0]
+    primary_camera_front = hybrid_df.loc[hybrid_df['model'] == name_model]['primary_camera_front'].values[0]
+    
+    
+    hybrid = hybrid_df[
+            (hybrid_df['price'] >= price) &
+            (hybrid_df['ram_capacity'] >= ram_capacity) &
+            (hybrid_df['internal_memory'] >= internal_memory) &
+            (hybrid_df['primary_camera_rear'] >= primary_camera_rear) &
+            (hybrid_df['primary_camera_front'] >= primary_camera_front)]
+
+    # st.dataframe(hybrid)
+    
+    hybrid_data = hybrid.sort_values(['price','ram_capacity','internal_memory','primary_camera_rear','primary_camera_front'],
+                                         ascending=[True, True, True, True, True]).head(10).reset_index()
+    # st.dataframe(hybrid_data)
+
+    hybrid_data = hybrid_data.iloc[:, 1:]
+    
+    if st.button("Recommendations"):
+        st.dataframe(hybrid_data)
+
+
 
 
 
