@@ -1,0 +1,815 @@
+,brand_name,model,price,ram_capacity,internal_memory,primary_camera_rear,primary_camera_front
+0,apple,Apple iPhone 11,38999,4,64,12.0,12.0
+1,apple,Apple iPhone 11 (128GB),46999,4,128,12.0,12.0
+2,apple,Apple iPhone 11 Pro Max,109900,4,64,12.0,12.0
+11,apple,Apple iPhone 13,62999,4,128,12.0,12.0
+12,apple,Apple iPhone 13 (256GB),72999,4,256,12.0,12.0
+13,apple,Apple iPhone 13 (512GB),91999,4,512,12.0,12.0
+14,apple,Apple iPhone 13 Mini,64900,4,128,12.0,12.0
+15,apple,Apple iPhone 13 Pro,119900,6,128,12.0,12.0
+16,apple,Apple iPhone 13 Pro (1TB),147900,6,1024,12.0,12.0
+17,apple,Apple iPhone 13 Pro (256GB),129900,6,256,12.0,12.0
+18,apple,Apple iPhone 13 Pro Max,129900,6,128,12.0,12.0
+19,apple,Apple iPhone 13 Pro Max (1TB),179900,6,1024,12.0,12.0
+20,apple,Apple iPhone 13 Pro Max (256GB),139900,6,256,12.0,12.0
+21,apple,Apple iPhone 14,65999,6,128,12.0,12.0
+22,apple,Apple iPhone 14 (256GB),75999,6,256,12.0,12.0
+23,apple,Apple iPhone 14 (512GB),95999,6,512,12.0,12.0
+25,apple,Apple iPhone 14 Plus,74999,6,128,12.0,12.0
+26,apple,Apple iPhone 14 Plus (256GB),84999,6,256,12.0,12.0
+27,apple,Apple iPhone 14 Plus (512GB),104999,6,512,12.0,12.0
+41,apple,Apple iPhone 9,29990,3,64,12.0,7.0
+42,apple,Apple iPhone SE 2020,39900,3,64,12.0,7.0
+46,asus,Asus ROG Phone 5s 5G,39999,8,128,64.0,24.0
+47,asus,Asus ROG Phone 6,71999,12,256,50.0,12.0
+48,asus,Asus ROG Phone 6 Batman Edition,72999,16,256,50.0,12.0
+49,asus,Asus ROG Phone 6 Pro 5G,89999,18,512,50.0,12.0
+51,asus,Asus ROG Phone 7,75990,18,256,64.0,32.0
+52,asus,Asus ZenFone 9,63990,8,128,50.0,12.0
+53,blackview,Blackview BV5200 Pro,8990,4,64,13.0,8.0
+54,blu,BLU F91 5G,14990,8,128,48.0,16.0
+56,cola,Cola Phone,14999,4,64,50.0,16.0
+57,doogee,Doogee S99,14999,8,128,108.0,32.0
+58,doogee,Doogee V Max,45999,12,256,108.0,32.0
+62,gionee,Gionee M12 Pro,7499,6,128,16.0,13.0
+63,google,Google Pixel 2 XL,15990,4,128,12.2,8.0
+64,google,Google Pixel 3a XL,15999,4,64,12.2,8.0
+65,google,Google Pixel 4,20120,6,64,16.0,8.0
+66,google,Google Pixel 5,36000,8,128,16.0,8.0
+67,google,Google Pixel 5A,32999,6,128,16.0,8.0
+68,google,Google Pixel 6,40480,8,128,50.0,8.0
+69,google,Google Pixel 6 Pro,54300,12,128,50.0,11.0
+72,google,Google Pixel 7 5G,53100,8,128,50.0,11.0
+77,honor,Honor 50,32990,6,128,108.0,32.0
+78,honor,Honor 60 SE 5G,24990,8,128,64.0,16.0
+79,honor,Honor 70 5G,39990,12,512,54.0,32.0
+80,honor,Honor 70 5G (8GB RAM + 256GB),30990,8,256,54.0,32.0
+83,honor,Honor Play 30,9999,4,128,13.0,5.0
+84,honor,Honor X6,13999,4,64,50.0,5.0
+85,honor,Honor X7a,13999,6,128,50.0,8.0
+86,honor,Honor X8,16999,6,128,64.0,16.0
+87,honor,Honor X8 5G,14990,6,128,48.0,8.0
+88,honor,Honor X9 5G,16999,8,128,48.0,16.0
+89,honor,Honor X9a,27999,8,256,64.0,16.0
+90,huawei,Huawei Honor 9N,10949,4,64,13.0,16.0
+93,huawei,Huawei Mate 50 Pro 5G,99990,8,256,64.0,13.0
+94,huawei,Huawei Mate 50 RS Porsche Design,239999,12,512,50.0,13.0
+97,huawei,Huawei Nova 10,29990,8,128,50.0,60.0
+98,huawei,Huawei Nova 10 SE,23999,8,256,108.0,16.0
+99,huawei,Huawei Nova 7i,21990,8,128,48.0,16.0
+100,huawei,Huawei Nova 9,29990,8,128,50.0,32.0
+101,huawei,Huawei Nova 9 SE,19990,8,128,108.0,16.0
+103,huawei,Huawei Nova Y90,22990,8,128,50.0,8.0
+109,infinix,Infinix Hot 11S,9690,4,64,50.0,8.0
+110,infinix,Infinix Hot 12,9999,4,64,50.0,8.0
+111,infinix,Infinix Hot 12 Play,8910,4,64,13.0,8.0
+112,infinix,Infinix Hot 12 Pro,10850,6,64,50.0,8.0
+113,infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),12340,8,128,50.0,8.0
+114,infinix,Infinix Hot 20,17999,4,64,50.0,8.0
+115,infinix,Infinix Hot 20 (6GB RAM+ 128GB),19999,6,128,50.0,8.0
+116,infinix,Infinix Hot 20 Play,8999,4,64,13.0,8.0
+117,infinix,Infinix Hot 20i,9999,3,64,13.0,8.0
+118,infinix,Infinix Hot 20S,12999,8,128,50.0,8.0
+119,infinix,Infinix Note 11 (6GB RAM + 128GB),12799,6,128,50.0,16.0
+120,infinix,Infinix Note 11S (8GB RAM + 128GB),15999,8,128,50.0,16.0
+121,infinix,Infinix Note 12,11700,4,64,50.0,16.0
+122,infinix,Infinix Note 12 (6GB RAM + 128GB),12999,6,128,50.0,16.0
+123,infinix,Infinix Note 12 (G96),16999,8,128,50.0,16.0
+124,infinix,Infinix Note 12 5G,15999,6,64,50.0,16.0
+125,infinix,Infinix Note 12 Pro,16900,8,256,108.0,16.0
+126,infinix,Infinix Note 12 Pro 5G,18999,8,128,108.0,16.0
+127,infinix,Infinix Note 12 Turbo,14999,8,128,50.0,16.0
+128,infinix,Infinix Note 12 VIP,19999,8,128,108.0,16.0
+129,infinix,Infinix Note 12i (2022),9999,4,64,50.0,8.0
+130,infinix,Infinix Note 13 Pro,16999,6,128,108.0,16.0
+131,infinix,Infinix Smart 6,7320,2,64,8.0,5.0
+133,infinix,Infinix Smart 6 Plus,8299,3,64,8.0,5.0
+134,infinix,Infinix Zero 20,17999,8,128,108.0,60.0
+135,infinix,Infinix Zero 5G 2023,19499,8,256,50.0,16.0
+136,infinix,Infinix Zero Ultra,36999,8,256,200.0,32.0
+137,infinix,Infinix Zero X Pro,21990,8,128,108.0,16.0
+138,iqoo,iQOO 11 (16GB RAM + 256GB),64999,16,256,50.0,16.0
+139,iqoo,iQOO 11 5G,59999,8,256,50.0,16.0
+140,iqoo,iQOO 11 Pro 5G,58990,8,256,50.0,16.0
+141,iqoo,iQOO 7,24990,8,128,48.0,16.0
+142,iqoo,iQOO 7 (12GB RAM + 256GB),35990,12,256,48.0,16.0
+143,iqoo,iQOO 7 Legend,39990,8,128,48.0,16.0
+144,iqoo,iQOO 9 5G,34990,8,128,48.0,16.0
+145,iqoo,iQOO 9 5G (12GB RAM + 256GB),39990,12,256,48.0,16.0
+146,iqoo,iQOO 9 Pro 5G,59990,8,256,50.0,16.0
+147,iqoo,iQOO 9 SE 5G,30990,8,128,48.0,16.0
+148,iqoo,iQOO 9 SE 5G (12GB RAM + 256GB),34949,12,256,48.0,16.0
+149,iqoo,iQOO 9T 5G,47990,8,128,50.0,16.0
+150,iqoo,iQOO Neo 6 5G,28999,8,128,64.0,16.0
+151,iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),33749,12,256,64.0,16.0
+152,iqoo,iQOO Neo 6 SE 5G,22990,8,128,64.0,16.0
+153,iqoo,iQOO Neo 7 5G,29999,8,128,64.0,16.0
+154,iqoo,iQOO Neo 7 Racing Edition,32990,8,256,50.0,16.0
+155,iqoo,iQOO Neo 7 SE 5G,24990,8,128,64.0,16.0
+156,iqoo,iQOO Z6 4G,14489,4,128,50.0,16.0
+157,iqoo,iQOO Z6 4G (6GB RAM + 128GB),15999,6,128,50.0,16.0
+158,iqoo,iQOO Z6 5G,15499,4,128,50.0,16.0
+159,iqoo,iQOO Z6 5G (6GB RAM + 128GB),16940,6,128,50.0,16.0
+160,iqoo,iQOO Z6 5G (8GB RAM + 128GB),18498,8,128,50.0,16.0
+161,iqoo,iQOO Z6 Lite (6GB RAM + 128GB),15499,6,128,50.0,8.0
+162,iqoo,iQOO Z6 Lite 5G,13989,4,64,50.0,8.0
+163,iqoo,iQOO Z6 Pro 5G,21788,6,128,64.0,16.0
+164,iqoo,iQOO Z6 Pro 5G (12GB RAM + 256GB),27999,12,256,64.0,16.0
+165,iqoo,iQOO Z6 Pro 5G (8GB RAM + 128GB),23399,8,128,64.0,16.0
+166,iqoo,iQOO Z7 5G,17999,8,128,50.0,16.0
+167,iqoo,iQOO Z7 Pro 5G,24999,6,128,50.0,16.0
+168,iqoo,iQOO Z8 5G,14999,4,128,50.0,16.0
+178,itel,itel Vision 3,6699,3,64,8.0,5.0
+180,jio,Jio JioPhone 5G,11990,4,32,13.0,8.0
+184,lava,Lava Agni 5G,17990,8,128,64.0,16.0
+185,lava,Lava Blaze 5G,10999,4,128,50.0,8.0
+186,lava,Lava Blaze NXT,8999,4,64,13.0,8.0
+188,leeco,LeEco S1 Pro,10999,8,128,13.0,5.0
+189,leitz,Leitz Phone 2,124990,12,256,47.2,13.0
+190,lenovo,Lenovo Legion Pro 2,59999,16,512,64.0,20.0
+191,lenovo,Lenovo Legion Y90,46990,12,256,64.0,16.0
+193,letv,Letv Y1 Pro Plus,5999,6,64,8.0,5.0
+196,lg,LG Velvet 5G,54999,6,128,48.0,16.0
+198,lyf,Lyf Earth 1,3990,3,32,13.0,5.0
+200,micromax,Micromax IN 2B,6999,4,64,13.0,5.0
+201,micromax,Micromax IN 2B (6GB RAM + 64GB),7790,6,64,13.0,5.0
+202,micromax,Micromax IN 2C,5999,3,32,8.0,5.0
+203,motorola,Motorola Edge 20 Fusion 5G,18999,6,128,108.0,32.0
+204,motorola,Motorola Edge 30 5G,22999,6,128,50.0,32.0
+205,motorola,Motorola Edge 30 5G (8GB RAM + 128GB),24999,8,128,50.0,32.0
+206,motorola,Motorola Edge 30 Fusion 5G,39999,8,128,50.0,32.0
+207,motorola,Motorola Edge 30 Pro 5G,34999,8,128,50.0,60.0
+210,motorola,Motorola Edge 40 5G,34999,8,128,50.0,32.0
+211,motorola,Motorola Edge 40 Fusion,42990,8,128,50.0,32.0
+212,motorola,Motorola Edge 40 Pro 5G,59990,8,128,50.0,60.0
+213,motorola,Motorola Edge Plus,57999,12,256,108.0,25.0
+214,motorola,Motorola Edge S,22490,6,128,64.0,16.0
+215,motorola,Motorola Moto E13,10499,2,64,13.0,5.0
+216,motorola,Motorola Moto E22s,9022,4,64,16.0,8.0
+217,motorola,Motorola Moto E32,8999,4,64,50.0,8.0
+218,motorola,Motorola Moto E32s,7990,3,32,16.0,8.0
+219,motorola,Motorola Moto E32s (4GB RAM + 64GB),8859,4,64,16.0,8.0
+220,motorola,Motorola Moto E40,7999,4,64,48.0,8.0
+221,motorola,Motorola Moto Edge 30 Neo,31990,8,128,64.0,32.0
+222,motorola,Motorola Moto Edge S30 5G,23990,6,128,108.0,16.0
+223,motorola,Motorola Moto Edge S30 Pro,34990,8,128,64.0,16.0
+225,motorola,Motorola Moto G 5G,19990,6,128,48.0,16.0
+226,motorola,Motorola Moto G13,15999,4,128,50.0,8.0
+227,motorola,Motorola Moto G22,9499,4,64,50.0,16.0
+228,motorola,Motorola Moto G23,19999,4,128,50.0,16.0
+229,motorola,Motorola Moto G31,9999,4,64,50.0,13.0
+230,motorola,Motorola Moto G31 (6GB RAM+ 128GB),11999,6,128,50.0,13.0
+231,motorola,Motorola Moto G32,10499,4,64,50.0,16.0
+232,motorola,Motorola Moto G40 Fusion,14499,4,64,64.0,16.0
+233,motorola,Motorola Moto G42,10999,4,64,50.0,16.0
+234,motorola,Motorola Moto G51 5G,12999,4,64,50.0,13.0
+235,motorola,Motorola Moto G52,11999,4,64,50.0,16.0
+236,motorola,Motorola Moto G52 (6GB RAM + 128GB),12999,6,128,50.0,16.0
+237,motorola,Motorola Moto G52 5G,16999,4,64,50.0,16.0
+238,motorola,Motorola Moto G53,21999,4,128,50.0,16.0
+239,motorola,Motorola Moto G60,15999,6,128,108.0,32.0
+240,motorola,Motorola Moto G62 (8GB RAM + 128GB),16499,8,128,50.0,16.0
+241,motorola,Motorola Moto G62 5G,14999,6,128,50.0,16.0
+242,motorola,Motorola Moto G71 5G,16999,6,128,50.0,16.0
+243,motorola,Motorola Moto G72,19990,6,128,108.0,16.0
+244,motorola,Motorola Moto G72 4G,15999,6,128,108.0,16.0
+245,motorola,Motorola Moto G73,25999,8,256,50.0,16.0
+246,motorola,Motorola Moto G82 (8GB RAM + 128GB),20499,8,128,50.0,16.0
+247,motorola,Motorola Moto G82 5G,18999,6,128,50.0,16.0
+248,motorola,Motorola Moto G91 5G,19990,6,128,108.0,32.0
+249,motorola,Motorola Moto S30 Pro,23990,8,128,50.0,32.0
+251,motorola,Motorola Moto X40,39999,8,128,50.0,60.0
+252,motorola,Motorola One Fusion Plus,19499,6,128,64.0,16.0
+253,motorola,Motorola One Macro,11490,4,64,13.0,8.0
+254,motorola,Motorola ThinkPhone,49990,8,128,50.0,32.0
+256,nokia,Nokia C21 Plus (4GB RAM + 64GB),8999,4,64,13.0,5.0
+257,nokia,Nokia C31,9499,3,32,13.0,5.0
+258,nokia,Nokia G11 Plus,10499,4,64,50.0,8.0
+259,nokia,Nokia G21,11999,4,64,50.0,8.0
+260,nokia,Nokia G21 (6GB RAM + 128GB),13499,6,128,50.0,8.0
+261,nokia,Nokia G60,28498,6,128,50.0,8.0
+263,nokia,Nokia X100 5G,17990,6,128,48.0,16.0
+264,nokia,Nokia X30,41990,6,128,50.0,16.0
+266,nokia,Nokia X60 5G,39990,6,128,200.0,16.0
+268,nothing,Nothing Phone 1,26749,8,128,50.0,16.0
+269,nothing,Nothing Phone 1 (12GB RAM + 256GB),35999,12,256,50.0,16.0
+270,nothing,Nothing Phone 1 (8GB RAM + 256GB),28249,8,256,50.0,16.0
+271,nothing,Nothing Phone 1 Lite,24990,6,128,50.0,16.0
+272,nothing,Nothing Phone 2,39990,8,128,50.0,32.0
+273,nubia,Nubia Red Magic 6S 5G,44999,8,128,64.0,8.0
+274,nubia,Nubia Red Magic 7S Pro,60990,12,256,64.0,8.0
+275,nubia,Nubia Red Magic 8 Pro 5G,46990,8,128,50.0,16.0
+276,nubia,Nubia Red Magic 8 Pro Plus,60999,12,256,50.0,16.0
+277,nubia,Nubia Z40 Pro 5G,49990,8,128,64.0,16.0
+278,nubia,Nubia Z50,34999,8,128,64.0,16.0
+279,oneplus,OnePlus 10 Pro 5G,60999,8,128,50.0,32.0
+282,oneplus,OnePlus 10R 5G,32999,8,128,50.0,16.0
+283,oneplus,OnePlus 10R 5G (12GB RAM + 256GB),36999,12,256,50.0,16.0
+284,oneplus,OnePlus 10R Prime Edition,35389,8,128,50.0,16.0
+285,oneplus,OnePlus 10T,44999,8,128,50.0,16.0
+286,oneplus,OnePlus 10T (12GB RAM + 256GB),50999,12,256,50.0,16.0
+287,oneplus,OnePlus 10T (16GB RAM + 256GB),55999,16,256,50.0,16.0
+288,oneplus,OnePlus 11 5G,54999,12,256,50.0,16.0
+290,oneplus,OnePlus 11R,39999,8,128,50.0,16.0
+292,oneplus,OnePlus 6 (8GB RAM + 128GB),27999,8,128,20.0,16.0
+293,oneplus,OnePlus 9 Pro,64800,8,128,48.0,16.0
+294,oneplus,OnePlus 9RT 5G,42999,8,128,50.0,16.0
+295,oneplus,OnePlus 9T,44999,8,128,108.0,16.0
+296,oneplus,OnePlus Ace 2,34999,8,128,50.0,16.0
+297,oneplus,OnePlus Ace 5G,28990,8,128,50.0,16.0
+298,oneplus,OnePlus Ace Pro,47990,12,256,50.0,16.0
+299,oneplus,OnePlus Ace Racing Edition 5G,22990,8,128,64.0,16.0
+300,oneplus,OnePlus Clover,14999,4,64,13.0,8.0
+301,oneplus,OnePlus Nord 2 Lite 5G,22999,8,128,64.0,16.0
+302,oneplus,OnePlus Nord 2T (12GB RAM + 256GB),33900,12,256,50.0,32.0
+303,oneplus,OnePlus Nord 2T 5G,28999,8,128,50.0,32.0
+304,oneplus,OnePlus Nord 3 5G,27999,8,128,50.0,32.0
+305,oneplus,OnePlus Nord 3T 5G,29990,8,128,50.0,32.0
+306,oneplus,OnePlus Nord 4 5G,29999,8,128,50.0,32.0
+308,oneplus,OnePlus Nord CE 2 Lite 5G,19989,6,128,64.0,16.0
+309,oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),21995,8,128,64.0,16.0
+310,oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),24999,8,256,64.0,16.0
+311,oneplus,OnePlus Nord CE 3 5G,21999,6,128,108.0,16.0
+312,oneplus,OnePlus Nord CE 3 Lite 5G,18999,6,128,50.0,16.0
+313,oneplus,OnePlus Nord Lite,19999,8,128,48.0,16.0
+314,oneplus,OnePlus Nord N10,25595,6,128,64.0,16.0
+315,oneplus,OnePlus Nord N100,16990,4,64,13.0,8.0
+316,oneplus,OnePlus Nord N20 5G,20990,6,128,64.0,16.0
+317,oneplus,OnePlus Nord N200,16990,4,64,13.0,16.0
+318,oneplus,OnePlus Nord N300,18990,4,64,48.0,16.0
+319,oneplus,OnePlus Nord SE,19999,4,64,48.0,13.0
+320,oneplus,OnePlus Z,24999,8,128,64.0,16.0
+321,oppo,OPPO A1 Pro,20990,8,128,108.0,16.0
+322,oppo,Oppo A12,9990,3,32,13.0,5.0
+323,oppo,OPPO A15,9999,3,32,13.0,5.0
+324,oppo,Oppo A15s (4GB RAM + 128GB),11490,4,128,13.0,8.0
+325,oppo,OPPO A16,11999,4,64,13.0,8.0
+326,oppo,OPPO A16e,8999,3,32,13.0,5.0
+327,oppo,OPPO A16e (4GB RAM + 64GB),8999,4,64,13.0,5.0
+328,oppo,OPPO A16K (4GB RAM + 64GB),10999,4,64,13.0,5.0
+329,oppo,OPPO A17,12499,4,64,50.0,5.0
+330,oppo,OPPO A17K,9499,3,64,8.0,5.0
+331,oppo,Oppo A31 2020 (6GB RAM + 128GB),12490,6,128,12.0,8.0
+332,oppo,OPPO A53 2020 (6GB RAM + 128GB),13990,6,128,13.0,16.0
+333,oppo,OPPO A54,12199,4,64,13.0,16.0
+334,oppo,OPPO A54 (4GB RAM + 128GB),11990,4,128,13.0,16.0
+335,oppo,OPPO A54 (6GB RAM + 128GB),14999,6,128,13.0,16.0
+336,oppo,OPPO A55 4G,13499,4,64,50.0,16.0
+337,oppo,OPPO A55 4G (6GB RAM + 128GB),14700,6,128,50.0,16.0
+338,oppo,OPPO A55 5G,17990,6,128,13.0,8.0
+339,oppo,Oppo A56 5G,17990,6,128,13.0,8.0
+340,oppo,Oppo A56s,12999,8,128,13.0,8.0
+341,oppo,OPPO A57 4G,11990,3,64,13.0,8.0
+342,oppo,OPPO A57 4G (4GB RAM + 64 GB),13969,4,64,13.0,8.0
+343,oppo,OPPO A58,18990,6,128,50.0,8.0
+344,oppo,OPPO A58x,13990,6,128,13.0,8.0
+345,oppo,OPPO A73,15990,3,32,13.0,16.0
+346,oppo,OPPO A74 5G,15490,6,128,48.0,8.0
+347,oppo,OPPO A76,16490,6,128,13.0,8.0
+348,oppo,OPPO A77,15499,4,64,50.0,8.0
+349,oppo,OPPO A77 (4GB RAM + 128 GB),15998,4,128,50.0,8.0
+350,oppo,Oppo A77 5G,21990,6,128,48.0,8.0
+351,oppo,OPPO A77s,17999,8,128,50.0,8.0
+352,oppo,Oppo A78,18999,8,128,50.0,8.0
+353,oppo,OPPO A96 4G,17999,8,128,50.0,16.0
+354,oppo,Oppo A96 5G,22990,8,256,48.0,16.0
+355,oppo,OPPO A97 5G,23990,12,256,48.0,8.0
+356,oppo,Oppo A98,30990,8,128,108.0,16.0
+357,oppo,OPPO F17 Pro,18990,8,128,48.0,16.0
+358,oppo,OPPO F19,14990,6,128,48.0,16.0
+359,oppo,OPPO F19 Pro,17994,8,128,48.0,16.0
+360,oppo,OPPO F19 Pro Plus 5G,19990,8,128,48.0,16.0
+361,oppo,OPPO F19s,15988,6,128,48.0,16.0
+362,oppo,OPPO F21 Pro 4G,20999,8,128,64.0,32.0
+363,oppo,OPPO F21 Pro 5G,25969,8,128,64.0,16.0
+364,oppo,OPPO F21s Pro,25895,8,128,64.0,16.0
+365,oppo,OPPO F21s Pro 4G,21899,8,128,64.0,32.0
+366,oppo,OPPO F22 Pro,27660,8,128,64.0,32.0
+367,oppo,OPPO F23 Pro,19990,8,128,64.0,32.0
+368,oppo,OPPO F23 Pro Plus 5G,27990,8,128,50.0,16.0
+376,oppo,Oppo Find X6,69990,8,256,50.0,32.0
+378,oppo,OPPO K10,13490,6,128,50.0,16.0
+379,oppo,OPPO K10 (8GB RAM + 128GB),16990,8,128,50.0,16.0
+380,oppo,OPPO K10 5G,16999,8,128,48.0,8.0
+381,oppo,Oppo K10 Pro 5G,29990,8,128,50.0,16.0
+382,oppo,Oppo K10x 5G,16990,6,128,64.0,16.0
+383,oppo,Oppo K5 (8GB RAM + 128GB),19990,8,128,64.0,32.0
+384,oppo,OPPO Reno 10,32999,8,256,50.0,32.0
+385,oppo,OPPO Reno 10 Pro,42990,16,256,50.0,32.0
+386,oppo,Oppo Reno 10 Pro Plus,58990,12,256,64.0,32.0
+387,oppo,Oppo Reno 5,29990,8,128,64.0,32.0
+388,oppo,Oppo Reno 5 Pro 5G,38700,8,128,64.0,32.0
+389,oppo,Oppo Reno 5A,22990,6,128,64.0,16.0
+390,oppo,OPPO Reno 6,26380,8,128,64.0,32.0
+391,oppo,OPPO Reno 6 Pro 5G,36760,12,256,64.0,32.0
+392,oppo,OPPO Reno 6 Pro Plus 5G,44990,8,128,50.0,32.0
+393,oppo,OPPO Reno 8 House of Dragon Edition,32990,8,128,50.0,32.0
+394,oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),42990,8,256,50.0,32.0
+395,oppo,OPPO Reno 8 Pro 5G,45999,12,256,50.0,32.0
+396,oppo,OPPO Reno 8 Pro House of Dragon Edition,45999,12,256,50.0,32.0
+397,oppo,OPPO Reno 8 Z,26990,8,256,64.0,16.0
+398,oppo,Oppo Reno 8T,29990,8,256,108.0,16.0
+399,oppo,Oppo Reno 8T 4G,19999,8,256,50.0,16.0
+400,oppo,OPPO Reno 9 5G,28499,8,256,64.0,32.0
+401,oppo,OPPO Reno 9 Pro 5G,39999,16,256,50.0,32.0
+402,oppo,OPPO Reno 9 Pro Plus,45999,16,256,50.0,32.0
+403,oppo,OPPO Reno 9 Z,22990,8,128,50.0,32.0
+404,oppo,OPPO Reno7 5G,25994,8,256,64.0,32.0
+405,oppo,OPPO Reno7 Pro 5G,31994,12,256,50.0,32.0
+406,oppo,OPPO Reno7 Z 5G,17999,8,128,64.0,16.0
+407,oppo,OPPO Reno8 5G,29340,8,128,50.0,32.0
+408,oppo,OPPO X 2021,134999,8,256,64.0,16.0
+409,oukitel,Oukitel WP19,29990,8,256,64.0,16.0
+411,oukitel,Oukitel WP9,25899,6,128,16.0,8.0
+412,poco,POCO C31,6499,3,32,13.0,5.0
+413,poco,POCO C31 (4GB RAM + 64GB),7499,4,64,13.0,5.0
+415,poco,Poco C50 (3GB RAM + 32GB),7299,3,32,8.0,5.0
+416,poco,Poco C55,7999,4,64,50.0,5.0
+417,poco,Poco F3 GT,32999,6,128,64.0,16.0
+418,poco,Poco F4 (12GB RAM + 256GB),29999,12,256,64.0,20.0
+419,poco,Poco F4 5G,25999,6,128,64.0,20.0
+420,poco,Poco F4 5G (8GB RAM + 128GB),27999,8,128,64.0,20.0
+421,poco,POCO F4 GT 5G,39999,8,128,64.0,20.0
+422,poco,Poco F5,34990,8,128,64.0,32.0
+423,poco,POCO F5 GT 5G,42999,8,128,64.0,20.0
+424,poco,Poco F5 Pro,29999,8,128,64.0,16.0
+425,poco,Poco M2,10890,6,64,13.0,8.0
+426,poco,POCO M2 Pro,12799,4,64,48.0,16.0
+427,poco,Poco M3,11499,6,64,48.0,8.0
+428,poco,POCO M3 Pro 5G,15999,4,64,48.0,8.0
+429,poco,POCO M3 Pro 5G (6GB RAM + 128GB),14799,6,128,48.0,8.0
+430,poco,Poco M4 5G,11499,4,64,50.0,8.0
+431,poco,Poco M4 5G (6GB RAM + 128GB),13499,6,128,50.0,8.0
+432,poco,POCO M4 Pro 4G,11999,6,64,64.0,16.0
+433,poco,POCO M4 Pro 4G (6GB RAM + 128GB),12999,6,128,64.0,16.0
+434,poco,POCO M4 Pro 4G (8GB RAM + 128GB),13999,8,128,64.0,16.0
+435,poco,Poco M4 Pro 5G,12999,4,64,50.0,16.0
+436,poco,Poco M4 Pro 5G (6GB RAM + 128GB),14999,6,128,50.0,16.0
+437,poco,Poco M4 Pro 5G (8GB RAM + 128GB),15999,8,128,50.0,16.0
+438,poco,Poco M5,10799,4,64,50.0,8.0
+439,poco,Poco M5 (6GB RAM + 128GB),14499,6,128,50.0,8.0
+440,poco,Poco M6 Pro,19990,8,128,108.0,32.0
+441,poco,Poco X3,13499,6,64,64.0,20.0
+442,poco,Poco X3 Pro,19650,6,128,48.0,20.0
+443,poco,Poco X4,14990,6,128,50.0,16.0
+444,poco,POCO X4 GT 5G,24990,8,128,64.0,16.0
+445,poco,POCO X4 GT 5G (8GB RAM + 256GB),28990,8,256,64.0,16.0
+446,poco,Poco X4 Pro 5G,14999,6,64,64.0,16.0
+447,poco,Poco X4 Pro 5G (6GB RAM + 128GB),16499,6,128,64.0,16.0
+448,poco,Poco X4 Pro 5G (8GB RAM + 128GB),17999,8,128,64.0,16.0
+449,poco,Poco X5,14999,4,128,48.0,8.0
+450,poco,POCO X5 GT,29990,8,128,64.0,32.0
+451,poco,Poco X5 Pro,20999,6,128,108.0,16.0
+453,realme,Realme 10,13999,4,64,50.0,16.0
+454,realme,Realme 10 (8GB RAM + 128GB),16999,8,128,50.0,16.0
+455,realme,Realme 10 5G,14499,8,128,50.0,8.0
+456,realme,Realme 10 Pro,18999,6,128,108.0,16.0
+457,realme,Realme 10 Pro (8GB RAM + 128GB),19999,8,128,108.0,16.0
+458,realme,Realme 10 Pro Plus,24999,6,128,108.0,16.0
+459,realme,Realme 10 Pro Plus (8GB RAM + 256GB),27999,8,256,108.0,16.0
+460,realme,Realme 10s,12999,8,128,50.0,8.0
+461,realme,Realme 11 Pro,28999,6,128,64.0,32.0
+462,realme,Realme 11 Pro Plus,24999,6,128,50.0,16.0
+463,realme,Realme 6 (6GB RAM + 64GB),12989,6,64,64.0,16.0
+464,realme,Realme 6 Pro,14490,6,64,64.0,16.0
+465,realme,Realme 7 Pro (8GB RAM + 128GB),21999,8,128,64.0,32.0
+466,realme,Realme 8,15999,4,128,64.0,16.0
+467,realme,Realme 8 (8GB RAM + 128GB),17999,8,128,64.0,16.0
+468,realme,Realme 8 5G,16499,4,128,48.0,16.0
+469,realme,Realme 8 5G (8GB RAM + 128GB),18499,8,128,48.0,16.0
+470,realme,Realme 8i,12499,4,64,50.0,16.0
+471,realme,Realme 8i (6GB RAM + 128GB),13999,6,128,50.0,16.0
+472,realme,Realme 8s 5G,17999,6,128,64.0,16.0
+473,realme,Realme 8s 5G (8GB RAM + 128GB),17499,8,128,64.0,16.0
+474,realme,Realme 9 4G,14999,6,128,108.0,16.0
+475,realme,Realme 9 4G (8GB RAM + 128GB),15999,8,128,108.0,16.0
+476,realme,Realme 9 5G,13999,4,64,48.0,16.0
+477,realme,Realme 9 5G (6GB RAM + 128GB),15499,6,128,48.0,16.0
+478,realme,Realme 9 5G SE,18999,6,128,48.0,16.0
+479,realme,Realme 9 5G SE (8GB RAM + 128GB),22998,8,128,48.0,16.0
+480,realme,Realme 9 Pro 5G,18999,6,128,64.0,16.0
+481,realme,Realme 9 Pro 5G (8GB RAM + 128GB),20999,8,128,64.0,16.0
+482,realme,Realme 9 Pro Plus 5G,25900,6,128,50.0,16.0
+483,realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),22994,8,128,50.0,16.0
+484,realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),24494,8,256,50.0,16.0
+485,realme,Realme 9i,12499,4,64,50.0,16.0
+486,realme,Realme 9i (4GB RAM + 128GB),13999,4,128,50.0,16.0
+487,realme,Realme 9i (6GB RAM + 128GB),14999,6,128,50.0,16.0
+488,realme,Realme 9i 5G,14965,4,64,50.0,8.0
+489,realme,Realme 9i 5G (6GB RAM + 128GB),16999,6,128,50.0,8.0
+491,realme,Realme C11,6490,2,32,13.0,5.0
+492,realme,Realme C11 2021,6499,2,32,8.0,5.0
+493,realme,Realme C11 2021 (4GB RAM + 64GB),7749,4,64,8.0,5.0
+495,realme,Realme C21Y,6999,3,32,13.0,5.0
+496,realme,Realme C25Y (4GB RAM + 64GB),8999,4,64,50.0,8.0
+497,realme,Realme C2s,3499,3,32,13.0,5.0
+499,realme,Realme C30 (3GB RAM + 32GB),6299,3,32,8.0,5.0
+501,realme,Realme C30s (4GB RAM + 64GB),8990,4,64,8.0,5.0
+502,realme,Realme C31,8299,3,32,13.0,5.0
+503,realme,Realme C31 (4GB RAM + 64GB),8999,4,64,13.0,5.0
+504,realme,Realme C32,9499,4,64,13.0,5.0
+505,realme,Realme C33,8950,3,32,50.0,5.0
+506,realme,Realme C33 (4GB RAM + 64GB),9999,4,64,50.0,5.0
+507,realme,Realme C35,11828,4,64,50.0,8.0
+508,realme,Realme C35 (4GB RAM + 128GB),12787,4,128,50.0,8.0
+509,realme,Realme C35 (6GB RAM + 128GB),13999,6,128,50.0,8.0
+510,realme,Realme G1,7999,3,32,13.0,5.0
+511,realme,Realme GT 2 5G,28994,8,128,50.0,16.0
+512,realme,Realme GT 2 Explorer Master Edition,40990,8,128,50.0,16.0
+513,realme,Realme GT 2 Pro 5G,49959,8,128,50.0,32.0
+514,realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),46999,12,256,50.0,32.0
+515,realme,Realme GT 5G,30994,8,128,64.0,16.0
+516,realme,Realme GT Explorer Master Edition,32990,8,128,50.0,32.0
+517,realme,Realme GT Master Edition 5G,27999,8,128,64.0,32.0
+518,realme,Realme GT Neo 3 5G,31994,8,128,50.0,16.0
+519,realme,Realme GT Neo 3T,24999,6,128,64.0,16.0
+520,realme,Realme GT Neo 3T (8GB RAM + 128GB),26499,8,128,64.0,16.0
+521,realme,Realme GT Neo 3T (8GB RAM + 256GB),28499,8,256,64.0,16.0
+522,realme,Realme GT Neo 4T,29999,8,128,50.0,16.0
+523,realme,Realme GT Neo 5,34999,8,128,50.0,16.0
+524,realme,Realme GT Neo2 5G,31999,8,128,64.0,16.0
+525,realme,Realme Narzo 20,10499,4,64,48.0,8.0
+526,realme,Realme Narzo 30 5G,16999,6,128,48.0,16.0
+527,realme,Realme Narzo 30 Pro 5G (8GB RAM +128GB),19999,8,128,48.0,16.0
+528,realme,Realme Narzo 50,10999,4,64,50.0,16.0
+529,realme,Realme Narzo 50 (6GB RAM + 128GB),15499,6,128,50.0,16.0
+530,realme,Realme Narzo 50 5G,17999,6,128,48.0,16.0
+531,realme,Realme Narzo 50 5G (4GB RAM + 128GB),14999,4,128,48.0,16.0
+532,realme,Realme Narzo 50 5G (4GB RAM + 64GB),13499,4,64,48.0,16.0
+533,realme,Realme Narzo 50 Pro 5G,20490,6,128,48.0,16.0
+534,realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),22999,8,128,48.0,16.0
+535,realme,Realme Narzo 50A,11499,4,64,50.0,8.0
+536,realme,Realme Narzo 50A Prime,11399,4,64,50.0,8.0
+537,realme,Realme Narzo 50A Prime (4GB RAM + 128GB),11879,4,128,50.0,8.0
+539,realme,Realme Narzo 50i (4GB RAM + 64GB),8999,4,64,8.0,5.0
+540,realme,Realme Narzo 50i Prime,7999,3,32,8.0,5.0
+541,realme,Realme Narzo 50i Prime (4GB RAM + 64GB),8720,4,64,8.0,5.0
+542,realme,Realme Q2i,9999,4,128,13.0,8.0
+543,realme,Realme Q3,14999,6,128,48.0,16.0
+544,realme,Realme Q3i 5G,10990,4,128,48.0,16.0
+545,realme,Realme Q5 5G,14990,6,128,50.0,16.0
+546,realme,Realme X50 Pro 5G (12GB RAM + 256GB),27999,12,256,64.0,32.0
+547,realme,Realme X50 Pro 5G (8GB RAM + 128GB),24999,8,128,64.0,32.0
+548,realme,Realme X7 Max,26999,8,128,64.0,16.0
+549,realme,Realme XT,13279,4,64,64.0,16.0
+550,redmi,Redmi 12C,7999,4,64,50.0,5.0
+551,redmi,Redmi Note 11 Pro 2023,18999,6,128,108.0,16.0
+552,redmi,Redmi Note 12 Pro Speed Edition,19999,6,128,108.0,16.0
+556,samsung,Samsung Galaxy A03,7249,3,32,48.0,5.0
+557,samsung,Samsung Galaxy A03 (4GB RAM + 64GB),11499,4,64,48.0,5.0
+559,samsung,Samsung Galaxy A03s,8499,3,32,13.0,5.0
+560,samsung,Samsung Galaxy A04,11999,4,64,50.0,5.0
+561,samsung,Samsung Galaxy A04 (4GB RAM + 128GB),12999,4,128,50.0,5.0
+562,samsung,Samsung Galaxy A04e,9299,3,32,13.0,5.0
+563,samsung,Samsung Galaxy A04e (3GB RAM + 64GB),9950,3,64,13.0,5.0
+564,samsung,Samsung Galaxy A04e (4GB RAM + 128GB),11499,4,128,13.0,5.0
+565,samsung,Samsung Galaxy A04s,12990,4,64,50.0,5.0
+566,samsung,Samsung Galaxy A04s (4GB RAM + 128GB),14499,4,128,50.0,5.0
+569,samsung,Samsung Galaxy A12,11999,4,64,48.0,8.0
+570,samsung,Samsung Galaxy A12 (6GB RAM + 128GB),13999,6,128,48.0,8.0
+574,samsung,Samsung Galaxy A13 5G,17990,4,64,50.0,5.0
+575,samsung,Samsung Galaxy A14 5G,16499,4,64,50.0,13.0
+576,samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),18999,6,128,50.0,13.0
+577,samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),20999,8,128,50.0,13.0
+579,samsung,Samsung Galaxy A21s (6GB RAM + 128GB),17499,6,128,48.0,13.0
+580,samsung,Samsung Galaxy A22,18499,6,128,48.0,13.0
+581,samsung,Samsung Galaxy A22 5G,17990,6,128,48.0,8.0
+582,samsung,Samsung Galaxy A23,18499,6,128,50.0,8.0
+583,samsung,Samsung Galaxy A23 (8GB RAM + 128GB),19990,8,128,50.0,8.0
+584,samsung,Samsung Galaxy A23 5G,22999,6,128,50.0,8.0
+585,samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),24999,8,128,50.0,8.0
+586,samsung,Samsung Galaxy A24,17999,6,64,48.0,16.0
+587,samsung,Samsung Galaxy A32,16499,6,128,64.0,20.0
+588,samsung,Samsung Galaxy A32 (8GB RAM + 128GB),16499,8,128,64.0,20.0
+589,samsung,Samsung Galaxy A32 5G,24499,6,128,48.0,13.0
+590,samsung,Samsung Galaxy A33 5G,25999,6,128,48.0,13.0
+591,samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),27499,8,128,48.0,13.0
+593,samsung,Samsung Galaxy A40,17990,4,64,16.0,25.0
+594,samsung,Samsung Galaxy A50s,15990,4,128,48.0,32.0
+595,samsung,Samsung Galaxy A52,24990,6,128,64.0,32.0
+596,samsung,Samsung Galaxy A52 (8GB RAM + 128GB),22494,8,128,64.0,32.0
+597,samsung,Samsung Galaxy A53 (8GB RAM + 256GB),36499,8,256,64.0,32.0
+598,samsung,Samsung Galaxy A53 5G,31999,6,128,64.0,32.0
+599,samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),33499,8,128,64.0,32.0
+601,samsung,Samsung Galaxy A7 (2018),21490,4,64,24.0,24.0
+602,samsung,Samsung Galaxy A71,22494,8,128,64.0,32.0
+607,samsung,Samsung Galaxy A82 5G,39990,6,128,64.0,10.0
+608,samsung,Samsung Galaxy A83 5G,39990,6,128,64.0,10.0
+609,samsung,Samsung Galaxy A9 Pro (2019),39990,6,128,24.0,24.0
+610,samsung,Samsung Galaxy A92 5G,47990,8,128,48.0,16.0
+611,samsung,Samsung Galaxy F04,8499,4,64,13.0,5.0
+612,samsung,Samsung Galaxy F12,10499,4,64,48.0,8.0
+613,samsung,Samsung Galaxy F13,10999,4,64,50.0,8.0
+614,samsung,Samsung Galaxy F13 (4GB RAM + 128GB),11999,4,128,50.0,8.0
+616,samsung,Samsung Galaxy F22,11499,4,64,48.0,13.0
+617,samsung,Samsung Galaxy F22 (6GB RAM + 128GB),13499,6,128,48.0,13.0
+618,samsung,Samsung Galaxy F23 5G,15999,4,128,50.0,8.0
+619,samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),16999,6,128,50.0,8.0
+620,samsung,Samsung Galaxy F24 5G,14999,4,128,50.0,8.0
+621,samsung,Samsung Galaxy F41 (6GB RAM + 128GB),19999,6,128,64.0,32.0
+622,samsung,Samsung Galaxy F42 5G,15490,6,128,64.0,8.0
+623,samsung,Samsung Galaxy F42 5G (8GB RAM + 128GB),22999,8,128,64.0,8.0
+624,samsung,Samsung Galaxy F63,21999,6,128,64.0,32.0
+625,samsung,Samsung Galaxy M04,8499,4,64,13.0,5.0
+626,samsung,Samsung Galaxy M04 (4GB RAM + 128GB),9499,4,128,13.0,5.0
+627,samsung,Samsung Galaxy M12,10999,4,64,48.0,8.0
+628,samsung,Samsung Galaxy M13,12999,6,128,50.0,8.0
+629,samsung,Samsung Galaxy M13 (4GB RAM + 64GB),10630,4,64,50.0,8.0
+630,samsung,Samsung Galaxy M13 5G,13999,6,128,50.0,5.0
+631,samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),12944,4,64,50.0,5.0
+633,samsung,Samsung Galaxy M21 2021,11725,4,64,48.0,20.0
+634,samsung,Samsung Galaxy M32,12364,4,64,64.0,20.0
+635,samsung,Samsung Galaxy M32 (6GB RAM + 128GB),14490,6,128,64.0,20.0
+636,samsung,Samsung Galaxy M32 Prime Edition,12120,4,64,64.0,20.0
+637,samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),14859,6,128,64.0,20.0
+638,samsung,Samsung Galaxy M33 5G,17478,6,128,50.0,8.0
+639,samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),19499,8,128,50.0,8.0
+640,samsung,Samsung Galaxy M34 5G,16999,6,128,64.0,32.0
+644,samsung,Samsung Galaxy M53 5G,23790,6,128,108.0,32.0
+645,samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),25289,8,128,108.0,32.0
+646,samsung,Samsung Galaxy M54 5G,34999,6,128,64.0,32.0
+647,samsung,Samsung Galaxy M62,23999,6,128,64.0,32.0
+648,samsung,Samsung Galaxy Note 10 Lite,39999,6,128,12.0,32.0
+649,samsung,Samsung Galaxy Note 10 Plus,58999,12,256,12.0,10.0
+650,samsung,Samsung Galaxy Note 10 Plus 5G,92999,12,256,12.0,10.0
+651,samsung,Samsung Galaxy Note 20,86000,8,256,64.0,10.0
+653,samsung,Samsung Galaxy S10 5G,78990,8,256,16.0,10.0
+654,samsung,Samsung Galaxy S10 Plus,42999,8,128,16.0,10.0
+655,samsung,Samsung Galaxy S20,41999,8,128,64.0,10.0
+656,samsung,Samsung Galaxy S20 5G,74999,8,128,64.0,10.0
+657,samsung,Samsung Galaxy S20 FE,35489,8,128,12.0,32.0
+658,samsung,Samsung Galaxy S20 FE 5G,31239,8,128,12.0,32.0
+659,samsung,Samsung Galaxy S20 Plus,83000,8,128,64.0,10.0
+662,samsung,Samsung Galaxy S21,48900,8,128,64.0,10.0
+663,samsung,Samsung Galaxy S21 FE 5G,39999,8,128,12.0,32.0
+664,samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),43999,8,256,12.0,32.0
+665,samsung,Samsung Galaxy S21 Plus,59450,8,128,64.0,10.0
+668,samsung,Samsung Galaxy S22 5G,49999,8,128,50.0,10.0
+669,samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),57999,8,256,50.0,10.0
+671,samsung,Samsung Galaxy S22 Plus 5G,64449,8,128,50.0,10.0
+672,samsung,Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),88999,8,256,50.0,10.0
+676,samsung,Samsung Galaxy S23,70990,8,128,50.0,12.0
+678,samsung,Samsung Galaxy S23 Plus,84990,8,256,50.0,12.0
+681,samsung,Samsung Galaxy S9 Plus (128GB),34999,6,128,12.0,8.0
+684,samsung,Samsung Galaxy Z Fold 3,110999,12,256,12.0,10.0
+687,sharp,Sharp Aquos R5G,59990,12,256,48.0,16.0
+688,sony,Sony Xperia 1 II,69999,8,256,12.0,8.0
+690,sony,Sony Xperia 10 II,27999,4,128,12.0,8.0
+691,sony,Sony Xperia 10 III Lite 5G,30990,6,64,12.0,8.0
+692,sony,Sony Xperia 5 II,69990,8,128,12.0,8.0
+693,sony,Sony Xperia 5 IV 5G,82199,8,256,12.0,12.0
+694,sony,Sony Xperia Ace IV,19990,8,128,50.0,16.0
+695,sony,Sony Xperia L5 5G,15990,4,64,13.0,8.0
+697,tcl,TCL Ion X,8990,3,32,13.0,5.0
+698,tecno,Tecno Camon 18,11499,4,128,48.0,16.0
+699,tecno,Tecno Camon 19,14746,6,128,64.0,16.0
+700,tecno,Tecno Camon 19 Neo,14999,6,128,48.0,32.0
+701,tecno,Tecno Camon 19 Pro,17990,8,128,64.0,32.0
+702,tecno,Tecno Camon 19 Pro 5G,21999,8,128,64.0,16.0
+703,tecno,Tecno Camon 19 Pro Mondrian Edition,17999,8,128,64.0,32.0
+704,tecno,Tecno Camon 20 Premier,20999,6,128,50.0,16.0
+705,tecno,Tecno Phantom X,25999,8,256,50.0,48.0
+706,tecno,Tecno Phantom X Pro,22999,8,256,50.0,48.0
+707,tecno,Tecno Phantom X2,39999,8,256,64.0,32.0
+708,tecno,Tecno Phantom X2 Pro,49999,12,256,50.0,32.0
+711,tecno,Tecno Pova 2,10999,4,64,48.0,8.0
+712,tecno,Tecno Pova 3,9999,4,64,50.0,8.0
+713,tecno,Tecno Pova 3 (6GB RAM + 128GB),13799,6,128,50.0,8.0
+714,tecno,Tecno Pova 4,11999,8,128,50.0,8.0
+715,tecno,Tecno Pova 4 Pro,15999,8,256,50.0,8.0
+716,tecno,Tecno Pova 5G,15499,8,128,50.0,16.0
+717,tecno,Tecno Pova Neo 2,13990,6,128,16.0,8.0
+718,tecno,Tecno Pova Neo 5G,15499,4,128,50.0,8.0
+719,tecno,Tecno Spark 8 (4GB RAM + 64GB),8999,4,64,16.0,8.0
+720,tecno,Tecno Spark 8 Pro,8799,4,64,48.0,8.0
+721,tecno,Tecno Spark 8C,7399,3,64,13.0,8.0
+722,tecno,Tecno Spark 8C (4GB RAM + 64GB),8890,4,64,13.0,8.0
+723,tecno,Tecno Spark 8T,7999,4,64,50.0,8.0
+724,tecno,Tecno Spark 9,8999,6,128,13.0,8.0
+725,tecno,Tecno Spark 9 (3GB RAM + 64GB),8390,3,64,13.0,8.0
+726,tecno,Tecno Spark 9 (4GB RAM + 64GB),7999,4,64,13.0,8.0
+727,tecno,Tecno Spark 9 Pro,9999,4,64,48.0,32.0
+728,tecno,Tecno Spark 9T,8968,4,64,50.0,8.0
+730,tecno,Tecno Spark Go 2023,6999,3,32,13.0,5.0
+732,vertu,Vertu Signature Touch,650000,2,64,13.0,2.0
+733,vivo,Vivo S1 Pro,29999,8,128,48.0,32.0
+734,vivo,Vivo S16,29990,8,128,64.0,50.0
+735,vivo,Vivo S16 Pro,35499,8,256,50.0,50.0
+737,vivo,Vivo T1 44W,14499,4,128,50.0,16.0
+738,vivo,Vivo T1 44W (6GB RAM + 128GB),15999,6,128,50.0,16.0
+739,vivo,Vivo T1 44W (8GB RAM + 128GB),17999,8,128,50.0,16.0
+740,vivo,Vivo T1 5G,15990,4,128,50.0,16.0
+741,vivo,Vivo T1 5G (6GB RAM + 128GB),16990,6,128,50.0,16.0
+742,vivo,Vivo T1 5G (8GB RAM + 128GB),19990,8,128,50.0,16.0
+743,vivo,Vivo T1 Pro,23999,6,128,64.0,16.0
+744,vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),24999,8,128,64.0,16.0
+745,vivo,Vivo T1x (4GB RAM + 128GB),12999,4,128,50.0,8.0
+746,vivo,Vivo T1x (6GB RAM + 128GB),14999,6,128,50.0,8.0
+747,vivo,Vivo T1x 4G,11999,4,64,50.0,8.0
+748,vivo,Vivo T2 5G,24990,8,128,64.0,16.0
+750,vivo,Vivo T2x 5G,18990,8,128,50.0,16.0
+751,vivo,Vivo T3 Pro,31990,8,256,64.0,32.0
+752,vivo,Vivo U3,9990,4,64,16.0,16.0
+753,vivo,Vivo U3 (6GB RAM + 64GB),11990,6,64,16.0,16.0
+754,vivo,Vivo U3x,8990,6,64,13.0,8.0
+755,vivo,Vivo V11i,20990,4,128,16.0,25.0
+756,vivo,Vivo V15 Pro (8GB RAM +128GB),25000,8,128,48.0,32.0
+757,vivo,Vivo V19 (8GB RAM + 256GB),27990,8,256,48.0,32.0
+758,vivo,Vivo V20,23269,8,128,64.0,44.0
+759,vivo,Vivo V20 Pro,27000,8,128,64.0,44.0
+760,vivo,Vivo V20 SE,19000,8,128,48.0,32.0
+761,vivo,Vivo V21,24999,8,128,64.0,44.0
+762,vivo,Vivo V21 5G,23994,8,128,64.0,44.0
+763,vivo,Vivo V21 Pro,32999,8,128,64.0,44.0
+764,vivo,Vivo V21s,29999,8,128,64.0,44.0
+765,vivo,Vivo V23 5G,24994,8,128,64.0,50.0
+766,vivo,Vivo V23 5G (12GB RAM + 256GB),27994,12,256,64.0,50.0
+767,vivo,Vivo V23 Pro 5G,31994,8,128,108.0,50.0
+768,vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),36994,12,256,108.0,50.0
+769,vivo,Vivo V23e,26990,8,128,64.0,50.0
+770,vivo,Vivo V23e 5G,21994,8,128,50.0,44.0
+771,vivo,Vivo V25 (12GB RAM + 256GB),31999,12,256,64.0,50.0
+772,vivo,Vivo V25 5G,27999,8,128,64.0,50.0
+773,vivo,Vivo V25 Pro (12GB RAM + 256GB),39999,12,256,64.0,32.0
+774,vivo,Vivo V25 Pro 5G,35999,8,128,64.0,32.0
+775,vivo,Vivo V25e,19990,8,256,64.0,32.0
+776,vivo,Vivo V26 Pro,42990,12,256,64.0,32.0
+777,vivo,Vivo V27,27990,8,256,64.0,50.0
+778,vivo,Vivo V27 Pro,43999,12,256,108.0,32.0
+779,vivo,Vivo V28,28990,8,256,108.0,32.0
+780,vivo,Vivo V29,32990,8,256,64.0,32.0
+786,vivo,Vivo X80 5G,54999,8,128,50.0,32.0
+787,vivo,Vivo X80 5G (12GB RAM + 256GB),59999,12,256,50.0,32.0
+790,vivo,Vivo X90 5G,41990,8,128,50.0,32.0
+793,vivo,Vivo Y01,7999,2,32,8.0,5.0
+794,vivo,Vivo Y01A,7790,2,32,8.0,5.0
+797,vivo,Vivo Y02s,8990,3,32,8.0,5.0
+798,vivo,Vivo Y10,12490,4,128,13.0,8.0
+799,vivo,Vivo Y100,29990,8,128,50.0,50.0
+800,vivo,Vivo Y11 (2019),9490,3,32,13.0,8.0
+801,vivo,Vivo Y12 (3GB RAM + 64GB),11000,3,64,13.0,8.0
+802,vivo,Vivo Y12a,9999,3,32,13.0,8.0
+803,vivo,Vivo Y12G (3GB RAM + 64GB),11990,3,64,13.0,8.0
+804,vivo,Vivo Y15,12500,4,64,13.0,16.0
+805,vivo,Vivo Y15C,8499,3,32,13.0,8.0
+806,vivo,Vivo Y15C (3GB RAM + 64GB),10490,3,64,13.0,8.0
+807,vivo,Vivo Y15s,8499,3,32,13.0,8.0
+808,vivo,Vivo Y16,9999,3,32,13.0,5.0
+809,vivo,Vivo Y16 (3GB RAM + 64GB),10499,3,64,13.0,5.0
+810,vivo,Vivo Y16 (4GB RAM + 64GB),12489,4,64,13.0,5.0
+811,vivo,Vivo Y19,20000,4,128,16.0,16.0
+812,vivo,Vivo Y20G,13990,4,64,13.0,8.0
+813,vivo,Vivo Y21 (2020),9990,4,64,13.0,13.0
+814,vivo,Vivo Y21 2021,13489,4,64,13.0,8.0
+815,vivo,Vivo Y21e,12499,3,64,13.0,8.0
+816,vivo,Vivo Y21s,14990,4,128,50.0,8.0
+817,vivo,Vivo Y21T,15499,4,128,50.0,8.0
+818,vivo,Vivo Y22,14499,4,64,50.0,8.0
+819,vivo,Vivo Y22 (6GB RAM + 128GB),16499,6,128,50.0,8.0
+820,vivo,Vivo Y22s,14990,8,128,50.0,8.0
+822,vivo,Vivo Y3 (4GB RAM + 128GB),12990,4,128,13.0,16.0
+823,vivo,Vivo Y33s,16685,8,128,50.0,16.0
+824,vivo,Vivo Y33T,15990,8,128,50.0,16.0
+825,vivo,Vivo Y35,18499,8,128,50.0,16.0
+826,vivo,Vivo Y35 5G,13999,4,128,13.0,5.0
+827,vivo,Vivo Y53s,15490,8,128,64.0,16.0
+828,vivo,Vivo Y53t,11999,4,128,13.0,5.0
+829,vivo,Vivo Y55 4G,22990,8,128,50.0,16.0
+830,vivo,Vivo Y55 5G,20990,4,128,50.0,8.0
+832,vivo,Vivo Y55s 2023,21999,4,128,50.0,8.0
+833,vivo,Vivo Y55s 5G,19990,8,128,50.0,8.0
+835,vivo,Vivo Y73 2021,19990,8,128,64.0,16.0
+836,vivo,Vivo Y73T,16990,8,128,50.0,8.0
+837,vivo,Vivo Y75 4G,19990,8,128,50.0,44.0
+838,vivo,Vivo Y75 5G,21990,8,128,50.0,16.0
+839,vivo,Vivo Y77 5G,17990,6,128,50.0,8.0
+840,vivo,Vivo Y78 5G,24990,8,128,50.0,16.0
+842,vivo,Vivo Y93,18000,4,32,13.0,8.0
+843,vivo,Vivo Y95,15000,4,64,13.0,20.0
+844,xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),24990,8,128,108.0,16.0
+845,xiaomi,Xiaomi 11i HyperCharge 5G,24820,6,128,108.0,16.0
+846,xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),26999,8,128,108.0,16.0
+847,xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),38999,12,256,108.0,16.0
+848,xiaomi,Xiaomi 12 Lite 5G,29990,6,128,108.0,32.0
+849,xiaomi,Xiaomi 12 Pro 5G,50990,8,256,50.0,32.0
+853,xiaomi,Xiaomi 12T,48990,8,128,108.0,20.0
+854,xiaomi,Xiaomi 12T Pro 5G,59990,8,128,200.0,20.0
+855,xiaomi,Xiaomi 13 5G,46990,8,128,50.0,32.0
+858,xiaomi,Xiaomi 14,54999,12,256,50.0,32.0
+859,xiaomi,Xiaomi Civi 2,29999,8,128,50.0,32.0
+860,xiaomi,Xiaomi Civi 3,32990,8,256,64.0,32.0
+861,xiaomi,Xiaomi Mi 10 5G (8GB RAM + 256GB),54999,8,256,108.0,20.0
+862,xiaomi,Xiaomi Mi 10T 5G,23500,6,128,64.0,20.0
+863,xiaomi,Xiaomi Mi 10T Pro 5G,29999,8,128,108.0,20.0
+864,xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),18699,8,128,64.0,16.0
+865,xiaomi,Xiaomi Mi 11 Lite NE 5G,21890,6,128,64.0,20.0
+866,xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),22999,8,128,64.0,20.0
+867,xiaomi,Xiaomi Mi 11i 5G,23499,6,128,108.0,16.0
+868,xiaomi,Xiaomi Mi 11T Pro 5G,34990,8,128,108.0,16.0
+869,xiaomi,Xiaomi Mi 11X,23890,6,128,48.0,20.0
+870,xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),25990,8,128,48.0,20.0
+871,xiaomi,Xiaomi Mi 11X Pro,30990,8,128,108.0,20.0
+872,xiaomi,Xiaomi Mi 12 5G,42990,8,128,50.0,32.0
+876,xiaomi,Xiaomi Poco F1,11999,6,64,12.0,20.0
+877,xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),12999,6,128,12.0,20.0
+878,xiaomi,Xiaomi Redmi 10,9589,4,64,50.0,5.0
+879,xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),11999,6,128,50.0,5.0
+880,xiaomi,Xiaomi Redmi 10 Power,11999,8,128,50.0,5.0
+881,xiaomi,Xiaomi Redmi 10 Prime,12390,4,64,50.0,8.0
+882,xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),12999,6,128,50.0,8.0
+883,xiaomi,Xiaomi Redmi 10 Prime Plus 5G,13990,4,128,50.0,5.0
+884,xiaomi,Xiaomi Redmi 10A,7499,3,32,13.0,5.0
+885,xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),8388,4,64,13.0,5.0
+886,xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),10850,6,128,13.0,5.0
+887,xiaomi,Xiaomi Redmi 10A Sport,9999,6,128,13.0,5.0
+888,xiaomi,Xiaomi Redmi 10C,13990,4,64,50.0,5.0
+889,xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),14990,4,128,50.0,5.0
+890,xiaomi,Xiaomi Redmi 11 Prime,11600,4,64,50.0,8.0
+891,xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),13774,6,128,50.0,8.0
+892,xiaomi,Xiaomi Redmi 11 Prime 5G,13466,4,64,50.0,5.0
+893,xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),15990,6,128,50.0,5.0
+894,xiaomi,Xiaomi Redmi 13 Prime 5G,17990,6,128,64.0,16.0
+895,xiaomi,Xiaomi Redmi 20X,10990,4,128,48.0,13.0
+896,xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),11490,4,64,12.0,8.0
+897,xiaomi,Xiaomi Redmi 9,8999,4,64,13.0,5.0
+898,xiaomi,Xiaomi Redmi 9 Activ,7499,4,64,13.0,5.0
+899,xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),10499,6,128,13.0,5.0
+900,xiaomi,Xiaomi Redmi 9 Power,11499,4,64,48.0,8.0
+901,xiaomi,Xiaomi Redmi 9A,6999,2,32,13.0,5.0
+902,xiaomi,Xiaomi Redmi 9A (6GB RAM + 128GB),10990,6,128,13.0,5.0
+903,xiaomi,Xiaomi Redmi 9A Sport,6499,2,32,13.0,5.0
+904,xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),9299,4,128,13.0,5.0
+905,xiaomi,Xiaomi Redmi 9i Sport,7499,4,64,13.0,5.0
+907,xiaomi,Xiaomi Redmi A1 Plus,7289,2,32,8.0,5.0
+908,xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),8399,3,32,8.0,5.0
+909,xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,8,256,48.0,20.0
+910,xiaomi,Xiaomi Redmi K50 5G,27990,8,128,48.0,20.0
+911,xiaomi,Xiaomi Redmi K50 Ultra 5G,39999,8,128,108.0,20.0
+912,xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),25999,8,256,64.0,16.0
+913,xiaomi,Xiaomi Redmi K50i 5G,22999,6,128,64.0,16.0
+914,xiaomi,Xiaomi Redmi K60,29990,8,128,64.0,16.0
+915,xiaomi,Xiaomi Redmi K60 Gaming Edition,54990,8,128,50.0,20.0
+916,xiaomi,Xiaomi Redmi K60 Pro,38999,8,128,54.0,16.0
+917,xiaomi,Xiaomi Redmi K60E,25999,8,128,48.0,20.0
+918,xiaomi,Xiaomi Redmi K60i,28999,8,128,50.0,32.0
+919,xiaomi,Xiaomi Redmi Note 10,13990,4,64,48.0,13.0
+920,xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),16499,6,128,48.0,13.0
+921,xiaomi,Xiaomi Redmi Note 10 5G,12490,4,128,48.0,8.0
+922,xiaomi,Xiaomi Redmi Note 10 Lite,9999,4,64,48.0,16.0
+923,xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),12499,4,128,48.0,16.0
+924,xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),11999,6,128,48.0,16.0
+925,xiaomi,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),17999,6,128,64.0,16.0
+926,xiaomi,Xiaomi Redmi Note 10 Pro 5G,16999,6,128,64.0,16.0
+927,xiaomi,Xiaomi Redmi Note 10 Pro Max,19999,6,64,108.0,16.0
+928,xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),19980,6,128,108.0,16.0
+929,xiaomi,Xiaomi Redmi Note 10S,10999,6,64,64.0,13.0
+930,xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),11999,6,128,64.0,13.0
+931,xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),13999,8,128,64.0,13.0
+932,xiaomi,Xiaomi Redmi Note 10T 5G,12999,4,64,48.0,8.0
+933,xiaomi,Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),13999,6,128,48.0,8.0
+934,xiaomi,Xiaomi Redmi Note 11,11936,4,64,50.0,13.0
+935,xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),14290,6,128,50.0,13.0
+936,xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),12188,6,64,50.0,13.0
+937,xiaomi,Xiaomi Redmi Note 11 5G,14990,4,128,50.0,16.0
+938,xiaomi,Xiaomi Redmi Note 11 Pro 4G,17999,6,128,108.0,16.0
+939,xiaomi,Xiaomi Redmi Note 11 Pro 5G,17990,6,64,108.0,16.0
+940,xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,19999,6,128,108.0,32.0
+941,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,19999,6,128,108.0,16.0
+942,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),22700,8,128,108.0,16.0
+943,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),22999,8,256,108.0,16.0
+944,xiaomi,Xiaomi Redmi Note 11E 5G,13990,4,128,50.0,5.0
+945,xiaomi,Xiaomi Redmi Note 11R,12990,4,128,13.0,5.0
+946,xiaomi,Xiaomi Redmi Note 11S,14590,6,64,108.0,16.0
+947,xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),15499,6,128,108.0,16.0
+948,xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),15824,8,128,108.0,16.0
+949,xiaomi,Xiaomi Redmi Note 11SE,11999,6,64,64.0,13.0
+950,xiaomi,Xiaomi Redmi Note 11T 5G,16999,6,64,50.0,16.0
+951,xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),16999,6,128,50.0,16.0
+952,xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),18499,8,128,50.0,16.0
+953,xiaomi,Xiaomi Redmi Note 11T Pro 5G,19990,6,128,64.0,16.0
+954,xiaomi,Xiaomi Redmi Note 12,17859,4,128,48.0,13.0
+955,xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),19988,6,128,48.0,13.0
+956,xiaomi,Xiaomi Redmi Note 12 4G,13999,4,64,48.0,13.0
+957,xiaomi,Xiaomi Redmi Note 12 Discovery Edition,26990,8,256,200.0,16.0
+958,xiaomi,Xiaomi Redmi Note 12 Explorer,24999,8,256,200.0,16.0
+959,xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),26999,8,128,50.0,16.0
+960,xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),27994,8,256,50.0,16.0
+961,xiaomi,Xiaomi Redmi Note 12 Pro 4G,14999,6,128,50.0,16.0
+962,xiaomi,Xiaomi Redmi Note 12 Pro 5G,24762,6,128,50.0,16.0
+963,xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,32999,6,128,108.0,32.0
+964,xiaomi,Xiaomi Redmi Note 12 Pro Plus,29999,8,256,200.0,16.0
+965,xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),32999,12,256,200.0,16.0
+966,xiaomi,Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),26999,6,128,200.0,16.0
+967,xiaomi,Xiaomi Redmi Note 12 Turbo,19999,8,128,50.0,16.0
+968,xiaomi,Xiaomi Redmi Note 12T 5G,15999,6,64,64.0,16.0
+969,xiaomi,Xiaomi Redmi Note 13 Pro 5G,17990,6,128,108.0,16.0
+970,xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,20499,6,128,108.0,32.0
+971,xiaomi,Xiaomi Redmi Note 4,10300,4,64,13.0,5.0
+972,xiaomi,Xiaomi Redmi Note 8 2021,9990,4,64,48.0,13.0
+973,xiaomi,Xiaomi Redmi Note 8 Pro,16999,6,64,64.0,20.0
+974,xiaomi,Xiaomi Redmi Note 9,11989,4,64,48.0,13.0
+975,xiaomi,Xiaomi Redmi Note 9 Pro,13999,4,64,48.0,16.0
+976,xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),14439,4,128,48.0,16.0
+977,xiaomi,Xiaomi Redmi Note 9 Pro Max,16490,6,64,64.0,32.0
+978,zte,ZTE Axon 30S,19999,6,128,50.0,16.0
+979,zte,ZTE Axon 40 Ultra 5G,61990,8,128,64.0,16.0
